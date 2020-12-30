@@ -5,11 +5,11 @@ import java.util.Random;
 import java.util.Scanner;
 
 // 
-//		1 | 2 | 3
-//	   ---+---+---
+//      1 | 2 | 3
+//     ---+---+---
 //      4 | 5 | 6
 //     ---+---+---
-//	    7 | 8 | 9
+//      7 | 8 | 9
 //
 
 
@@ -163,5 +163,6 @@ public class TicTacToe {
 
 		return result;
 	}
+
 
 }
